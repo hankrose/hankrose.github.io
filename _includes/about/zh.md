@@ -1,11 +1,9 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+> 为了生存和吃饭写代码，  
+> 我想起了那天夕阳下的奔跑，那是我逝去的青春。
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+Hey，我是凌峰，是一个90后。在93年的夏天。在江苏一个小县城呱呱落地。之后一直也没什么特殊的机遇，喜欢音乐，自学了口琴和吉他。但是高中也没走音乐的路线。后来经过我高中三年的努力，我高考考的不咋地。为了以后的生存我选择读常州职业技术学校，在学校我当时也是浑浑噩噩无所事事。
+自从踏入社会以后我才发现没读书好后悔。后来自己自学了java出来找工作。先后经历过 用友软件，新致软件，OPENTEXT等公司。目前在opentext担任软件开发。我会的比较多也比较杂，从c++到java，delphi，c#大部分的语言都会点，目前呢主要做java
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。目前在 [Facebook](https://www.facebook.com/) 写 [Reason](https://reasonml.github.io/) 与 [Messenger.com](http://messenger.com/) ，曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
-
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](https://zhuanlan.zhihu.com/p/21280918)。 
 
 
 ##### Talks
