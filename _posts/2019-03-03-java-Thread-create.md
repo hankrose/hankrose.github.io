@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "java多线程"
 subtitle:   " \"java多线程一（怎么创建多线程）\""
 date:       2019-03-03 12:00:00
 author:     "LingFeng"
