@@ -3,11 +3,13 @@
 > Yet another man.
 
 
-Hi, I am *@huxpro* (Huang, Xuan), a software engineer & a designer. I am currently working on [Reason](https://reasonml.github.io/) and [Messenger.com](http://messenger.com/) at [Facebook](https://www.facebook.com/). I previously worked as Web Front-End Engineer at [Alibaba Trip](https://www.alitrip.com/); Web Front-End Infrastructure Team Lead at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity); And [Invited Consultant on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/).
-
-I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and am studying Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) from 2017.
+Hey, I'm Ling Feng, a post-90s generation. In a summer, it came crashing to the ground. Since then, there have been no special opportunities, like music, self-taught harmonica and guitar. But high school did not follow the music route. Later, after three years of high school efforts, my college entrance examination is not terrible. In order to survive in the future, I chose to study in Dongchuan Road Men's Vocational and Technical College. At that time, I was also muddled and idle at school.
 
 
+
+Since I entered the society, I found that I regretted not reading well. Later, I taught myself Java and came out to find a job. Has experienced User Software, New Software, OPENTEXT and other companies. Currently, he works as a software developer in opentext. I will be more and more miscellaneous, from c++ to java, delphi, c# most languages will point, at present, mainly do java
+
+My [github](https://github.com/hankrose),[cnbolg](https://www.cnblogs.com/lingfeng-zhu/)
 ##### Talks
 
 - [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
