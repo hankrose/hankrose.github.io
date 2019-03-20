@@ -3,9 +3,9 @@ title: LingFeng Blog
 SEOTitle: 凌峰的博客 | LingFeng Blog
 header-img: img/home-bg.jpg
 email: 1036079179@qq.com
-description: "关于程序与设计、黑客与画家 | 凌峰玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @LingFeng凌峰 的个人博客，与你一起发现更大的世界。"
+description: "关于程序与设计、黑客与画家 | 凌峰，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @LingFeng凌峰 的个人博客，与你一起发现更大的世界。"
 keyword: "凌峰, LingFeng凌峰, LingFeng,凌峰的博客, LingFeng Blog, 博客, 个人网站, 互联网, Web, Java, 后端, 架构"
-url: "https://hankrose.gtihub.io"              # your host, for absolute URL
+url: "https://lingfeng.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
