@@ -2,7 +2,7 @@
 layout:     post
 title:      "java多线程"
 subtitle:   " \"java多线程一（怎么创建多线程）\""
-date:       2019-03-03 12:00:00
+date:       2018-10-03 12:00:00
 author:     "LingFeng"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
