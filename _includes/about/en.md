@@ -3,12 +3,11 @@
 > Yet another man.
 
 
-Hey, I'm Ling Feng, a post-90s generation. In a summer, it came crashing to the ground. Since then, there have been no special opportunities, like music, self-taught harmonica and guitar. But high school did not follow the music route. Later, after three years of high school efforts, my college entrance examination is not terrible. In order to survive in the future, I chose to study in Dongchuan Road Men's Vocational and Technical College. At that time, I was also muddled and idle at school.
+Hey, I'm Ling Feng, a barely post-90s person. In a summer, it came crashing to the ground. Since then, there have been no special opportunities, like music, self-taught harmonica and guitar. But high school did not follow the music route. Later, after three years of high school efforts, my college entrance examination is not terrible. In order to survive in the future, I chose to study in Jiangsu Institute of Technology. At that time, I was also muddled and idle.
 
 
 
-Since I entered the society, I found that I regretted not reading well. Later, I taught myself Java and came out to find a job. Has experienced User Software, New Software, OPENTEXT and other companies. Currently, he works as a software developer in opentext. I will be more and more miscellaneous, from c++ to java, delphi, c# most languages will point, at present, mainly do java
-
+Since I entered the society, I found that I regretted not reading well. Later, I taught myself Java and came out to find a job. Has experienced Covette, IBM, OPENTEXT and other companies. Currently, he works as a software developer in opentext. I will be more and more miscellaneous, from c++ to java, delphi, c# most languages will point, at present, mainly do java
 My [github](https://github.com/hankrose),[cnbolg](https://www.cnblogs.com/lingfeng-zhu/)
 ##### Talks
 
