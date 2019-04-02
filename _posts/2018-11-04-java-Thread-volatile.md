@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "java多线程"
-subtitle:   " \"java多线程二(Thread和Runnable创建多线程的区别)\""
+subtitle:   " \"java多线程五(volatile关键字解析和用处)\""
 date:       2018-11-10 12:00:00
 author:     "LingFeng"
 header-img: "img/post-bg-2015.jpg"
@@ -119,4 +119,4 @@ class VolatileThread implements Runnable{
 
 其实可以看到,当第一个线程获得这个downComputerstauts的状态发生变化后。进入方法。第一时间再次修改了该变量的值。通知了其他线程这个值的变化，其他线程就获得了false的结果。
 
-—— LingFeng 后记于 2018.11.04
+—— LingFeng 后记于 2018.11.10
