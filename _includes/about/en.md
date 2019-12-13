@@ -7,7 +7,7 @@ Hey, I'm Ling Feng, a barely post-90s person. In a summer, it came crashing to t
 
 
 
-Since I entered the society, I found that I regretted not reading well. Later, I taught myself Java and came out to find a job. Has experienced Covette, IBM, OPENTEXT and other companies. Currently, he works as a software developer in opentext. I will be more and more miscellaneous, from c++ to java, delphi, c# most languages will point, at present, mainly do java
+Since I entered the society, I found that I regretted not reading well. Later, I taught myself Java and came out to find a job. Has experienced Covette, OPENTEXT，Farben and other companies. Currently, he works as a software developer in Farben. I will be more and more miscellaneous, from c++ to java, delphi, c# most languages will point, at present, mainly do java
 My [github](https://github.com/hankrose),[cnbolg](https://www.cnblogs.com/lingfeng-zhu/)
 ##### Talks
 
