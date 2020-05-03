@@ -18,7 +18,7 @@ tags:
 
 &nbsp;&nbsp;最近有个想法就是把工作中使用过的知识进行一次总体的记录和知识点的梳理,于是便有了 [java_interview](https://github.com/hankrose/java-interview) 这个项目。这个项目我会带着大家学习下面这个思维导图上的知识
 
-<img src="../img/java-interview.png" >
+![img](/img/java-interview.png)
  
 <p id = "build"></p>
 ---
