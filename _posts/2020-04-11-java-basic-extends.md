@@ -53,7 +53,7 @@ tags:
 
   子类实现如下
   
-  ```
+  ```java
   package org.lingfeng.web;
 
     /**
@@ -70,7 +70,7 @@ tags:
 
   &nbsp;&nbsp;下面我们来写一个测试类来看一下
 
-  ```
+  ```java
   package org.lingfeng.web;
 
     /**
@@ -90,7 +90,7 @@ tags:
 
   <font color="Process Blue">答案显而易见 使用了子类的方法</font>  
 
-  ```
+  ```java
    ExtendsChild sout
   ```
    &nbsp;&nbsp;为什么jvm编译的时候可以选择到子类的方法而不是父类的方法,这一点我们在后面的 [多态]() 会详细的说明。
@@ -104,7 +104,7 @@ tags:
 
    &nbsp;&nbsp;这个问题我们来看一下,前面的那段代码，我们再新增一个父类。
 
-   ```
+   ```java
    package org.lingfeng.web;
 
     /**
@@ -121,7 +121,7 @@ tags:
 ----
    &nbsp;&nbsp;我们再将 子类的方法直接改为调用父类实现呢  
 
-```
+```java
      package org.lingfeng.web;
 
     /**
@@ -166,7 +166,7 @@ tags:
 
 &nbsp;&nbsp; 我们先看第一个问题  <font color="greed">为什么子类不显示的生成父类对象,可以调用父类的方法</font>
 &nbsp;&nbsp; 我们首先给子类定义一个无参构造，父类不显式的定义
-```
+```java
 package org.lingfeng.web;
 
     /**
@@ -181,7 +181,7 @@ package org.lingfeng.web;
     }
 ```
 &nbsp;&nbsp;我们看一下这个main的执行的结果
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -202,7 +202,7 @@ ExtendsFather sout
 ```
 &nbsp;&nbsp;那么我们在父类中也加入构造方法呢?
 
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -220,7 +220,7 @@ public class ExtendsFather {
 }
 ```
 &nbsp;&nbsp;
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -244,7 +244,7 @@ ExtendsFather sout
 
 &nbsp;&nbsp; 那我们在子类，加上super这个语法糖呢?
 
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -262,7 +262,7 @@ public class ExtendsChild extends ExtendsFather{
 
 &nbsp;&nbsp;那么我们再来执行一次
 
-```
+```java
 结果:
 I am father
 I am child
@@ -273,7 +273,7 @@ ExtendsFather sout
 &nbsp;&nbsp;作为一个码农，我本着求真的精神。向下面继续的了解。如果说如果父类子类都有两个属性叫 age 和 name 呢;
 
 很好我们现在首先来试一下
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -296,7 +296,7 @@ public class ExtendsFather {
 ```
 
 &nbsp;&nbsp;子类也加上这段方法
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -316,7 +316,7 @@ public class ExtendsChild extends ExtendsFather{
 
 }
 ```
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -340,7 +340,7 @@ ExtendsFather sout
 
 &nbsp;&nbsp;直接上方法
 
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -371,7 +371,7 @@ ExtendsFather sout
 
 &nbsp;&nbsp;我们首先在修改一下子类的构造方法
 
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -394,7 +394,7 @@ public class ExtendsChild extends ExtendsFather{
 }
 ```
 
-```
+```java
 结果:
 my name is father li,my age is 35
 my name is ,my age is 0 my father is father li
@@ -402,7 +402,7 @@ ExtendsFather sout
 ```
 &nbsp;&nbsp;从这里可以看出来其实我们局部变量比成员变量的优先级要高。但是我们有的时候就是想获取成员变量怎么办? 这个时候就可以引入,this这个关键字
 
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -425,7 +425,7 @@ public class ExtendsChild extends ExtendsFather{
 }
 ```
 
-```
+```java
 结果:
 my name is father li,my age is 35
 my name is child li,my age is 10 my father is father li
@@ -434,7 +434,7 @@ ExtendsFather sout
 
 &nbsp;&nbsp;为什么用了this就可以获取到成员变量的值呢? 我们把this 给输出出来看一下
 
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -458,7 +458,7 @@ public class ExtendsChild extends ExtendsFather{
 }
 ```
 
-```
+```java
 my name is father li,my age is 35
 my name is child li,my age is 10 my father is father li
 org.lingfeng.web.ExtendsChild@433c675d
@@ -469,7 +469,7 @@ ExtendsFather sout
 
 &nbsp;&nbsp;super和this的混合使用，假设一个情景，你母亲让你父亲刷碗，你父亲把水给准备好了，临时有事走了，让你接着刷碗。你到了厨房应该是直接刷碗。不用准备水。那么java对于继承的关系也是一样。那么我们继续修改父类代码，增加一个刷碗的方法
 
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -498,7 +498,7 @@ public class ExtendsChild extends ExtendsFather{
 }
 ```
 
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -529,7 +529,7 @@ public class ExtendsFather {
 
 &nbsp;&nbsp;
 
-```
+```java
 package org.lingfeng.web;
 
 /**
@@ -558,7 +558,7 @@ org.lingfeng.web.ExtendsChild@433c675d
 
 &nbsp;&nbsp;然而我自己又有一个疑问了,this能不能在构造方法中调用其他构造呢。super继续写在这个this前面会有问题吗
 
-```
+```java
 package org.lingfeng.web;
 
 /**
